@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appvilla-template/static/css/main.3560b292.css",
+    "main.js": "/appvilla-template/static/js/main.f9387a86.js",
+    "static/js/453.2834c336.chunk.js": "/appvilla-template/static/js/453.2834c336.chunk.js",
+    "index.html": "/appvilla-template/index.html",
+    "main.3560b292.css.map": "/appvilla-template/static/css/main.3560b292.css.map",
+    "main.f9387a86.js.map": "/appvilla-template/static/js/main.f9387a86.js.map",
+    "453.2834c336.chunk.js.map": "/appvilla-template/static/js/453.2834c336.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3560b292.css",
+    "static/js/main.f9387a86.js"
+  ]
+}
